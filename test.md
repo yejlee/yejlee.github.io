@@ -1,6 +1,8 @@
-insert mode
+how to use vi
 
-see you
+
+call vi then put the file's name after.
+vi test.md 이렇게
 
 press i to enter insert mode
 esc to get out of insert mode
